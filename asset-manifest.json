@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/marvis/static/css/main.136cbd6a.css",
-    "main.js": "/marvis/static/js/main.9db68185.js",
+    "main.js": "/marvis/static/js/main.5367aab7.js",
     "static/js/453.b3383602.chunk.js": "/marvis/static/js/453.b3383602.chunk.js",
     "index.html": "/marvis/index.html",
     "main.136cbd6a.css.map": "/marvis/static/css/main.136cbd6a.css.map",
-    "main.9db68185.js.map": "/marvis/static/js/main.9db68185.js.map",
+    "main.5367aab7.js.map": "/marvis/static/js/main.5367aab7.js.map",
     "453.b3383602.chunk.js.map": "/marvis/static/js/453.b3383602.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.136cbd6a.css",
-    "static/js/main.9db68185.js"
+    "static/js/main.5367aab7.js"
   ]
 }
